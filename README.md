@@ -3,8 +3,6 @@ Text Summarizer
 A small NLP project that trims long text into short, clear summaries. Built using a transformer model and wrapped with a simple Gradio interface.
 
 
-(Add your app screenshot here if you want.)
-
 🔍 What this does
 
 Takes a long paragraph
